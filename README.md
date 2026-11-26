@@ -42,6 +42,7 @@ browser ─▶ Traefik (allow-list: internal networks only)
 ## Related
 
 - [homelab-compose](https://github.com/zacharyrichter/homelab-compose): the compose files for the Authentik stack and the proxy outpost.
+- [narrow-tunnel](https://github.com/zacharyrichter/narrow-tunnel): how devices reach the web apps from outside, over the home tunnel.
 - [air-gap-the-keys](https://github.com/zacharyrichter/air-gap-the-keys): the management network the forward-auth proxy protects.
 
 Everything here is sanitized: the domain is `example.net`, addresses are `10.0.x.x`, the human account is `admin`, and secrets are placeholders.
